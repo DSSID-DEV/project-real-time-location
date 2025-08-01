@@ -1,4 +1,4 @@
-package com.sistemas.dssid.real_time_location.controllers;
+package com.sistemas.dssid.real_time_location.api.controllers;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
